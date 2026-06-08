@@ -39,11 +39,7 @@ O foco é entregar uma página rápida, clara e orientada à conversão, com vis
 
 ## Link do deploy
 
-Adicione aqui o link do deploy:
-
-```text
-https://seu-link-deploy-aqui.com
-```
+https://landing-barbeariaa.vercel.app/
 
 ## Observação
 
